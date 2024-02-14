@@ -11,11 +11,6 @@ Virtual environment (recommended)
 Setting Up Your Environment
 Clone the Repository
 
-Clone the GitHub repository to your local machine using the command:
-bash
-Copy code
-git clone [URL_OF_YOUR_REPOSITORY]
-Install Dependencies
 
 Navigate to the directory where the repository is cloned and install the required Python packages using pip:
 Copy code
