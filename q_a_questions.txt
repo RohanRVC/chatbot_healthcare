@@ -1,0 +1,8 @@
+You-: hi
+ AI BOT-:Hello! How can I assist you today?
+------------------------------------------------------------------------------------
+You-: how are u
+ AI BOT-:As an AI, I don't have personal feelings or emotions, so I don't experience "being" in the way that humans do. I am a computer program designed to provide information and answer questions to the best of my ability.
+
+That being said, I am always here to help you with your requests and queries. Is there anything I can assist you with today?
+------------------------------------------------------------------------------------
