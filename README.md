@@ -13,7 +13,7 @@ Clone the Repository
 
 
 Navigate to the directory where the repository is cloned and install the required Python packages using pip:
-Copy code
+Copy code 
 pip install -r requirements.txt
 Set Up Environment Variables
 
