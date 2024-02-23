@@ -5,7 +5,7 @@ chatbot link-: https://chatbot-for-fitness.onrender.com
 Prerequisites
 Before you begin, ensure you have the following installed:
 
-Python 3.6 or higher
+Python 3.6 or higher 
 pip (Python package installer)
 Virtual environment (recommended)
 Setting Up Your Environment
